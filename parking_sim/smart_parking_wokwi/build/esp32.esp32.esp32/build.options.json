@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32",
+  "hardwareFolders": "C:\\Users\\Indrjeet Dumbhare\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.12,C:\\Users\\Indrjeet Dumbhare\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.12",
+  "otherLibrariesFolders": "C:\\Users\\Indrjeet Dumbhare\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\Users\\Indrjeet Dumbhare\\Downloads\\smart-parking (1)\\smart-parking\\parking_sim\\smart_parking_wokwi"
+}

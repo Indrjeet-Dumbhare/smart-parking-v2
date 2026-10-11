@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'smart_parking_wokwi/build/smart_parking_wokwi.ino.merged.bin'
+elf = 'smart_parking_wokwi/build/smart_parking_wokwi.ino.elf'
